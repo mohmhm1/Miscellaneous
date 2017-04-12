@@ -4,3 +4,5 @@ SQLquery.sh is a sample shell script to query any unresolved issues from a servi
 Needleman.py uses the needleman wunsch dynamic programming algorithm to find sequence alignment between 2 sequences. 
 
 DNAwizard.py is a script that takes input DNA sequences and returns complement,reverse complement, GC% and Amino Acid translations with ORF +1,2 and 3 accounted for. 
+
+fragcode is a sample script for using molecular fingerprints to identify regions of similarity within SMILES notated molecules. 
